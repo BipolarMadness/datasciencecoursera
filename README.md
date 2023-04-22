@@ -1,7 +1,7 @@
 # datasciencecoursera
 Data Science Course Project Stephan
 
-Checking If it updates
+Hello coursera people reviewing my project.
 
 Problems encountered during the Coursera assignment:
 
@@ -11,6 +11,8 @@ The course didnt mentioned that you must check if your email is privated on your
 
 Instead if your email is privated you must use instead as an email [ID]+[UserName]@users.noreply.github.com where your ID and Username can be found on your Github Settings on the Emails tap.
 
--There is no problem when openning a RStudio Project that is local. But when trying to open a RStudio that is linked to a reppo in Github the app will try to open the project multiple times, openning multiple RStudio over and over again, creating multiple processes to the point that it makes you think RStudio decided to become malware.
+-There is no problem when opening a RStudio Project that is local. But when trying to open a RStudio that is linked to a repo in Github the app will try to open the project multiple times, opening multiple RStudio over and over again, creating multiple processes to the point that it makes you think RStudio decided to become malware.
 
-The only way to stop it I found was to open taskmanaged and keep closing any new RStudio process until the original or one of the new ones manages to open the project. At that point once loaded RStudio will stop launching new windows/processes.
+The only way to stop it I found was to open taskmanager and keep closing any new RStudio process until the original or one of the new ones manages to open the project. At that point once loaded RStudio will stop launching new windows/processes.
+
+If you know of any other solutions of this problem with RStudio of this matter I am open for direct messages at my discord BipolarMadness#3156 . Just thought might as well have a chat with anyone starting out on Data Science courses so we can help each other out (specially when dealing with outdated automated courses).
